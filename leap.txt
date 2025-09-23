@@ -1,0 +1,143 @@
+faq:
+  - question: What types of shingles do you install?
+    answer: We install 3-tab and architectural asphalt shingles, plus specialty and luxury shingles.
+    topic: roofing materials
+  - question: What's the difference between a 3-tab shingle and an architectural shingle?
+    answer: Architectural shingles are thicker/heavier and typically last longer than basic 3-tab shingles.
+    topic: roofing materials
+  - question: Do you offer metal roofs?
+    answer: Yes, we offer both standing seam and stamped metal profile roofs.
+    topic: roofing materials
+  - question: What are the benefits of a metal roof?
+    answer: Great durability, energy efficiency, and fire resistance.
+    topic: roofing benefits
+  - question: What are the factors that determine how long a roof lasts?
+    answer: Depends on material, ventilation, installation quality, and maintenance.
+    topic: roofing lifespan
+  - question: How long does an asphalt roof last?
+    answer: Asphalt roofs commonly last 25 to 35 years.
+    topic: roofing lifespan
+  - question: How long does a metal roof last?
+    answer: Metal roofs typically last over 40 years with proper upkeep.
+    topic: roofing lifespan
+  - question: What warranties do I get on a roof?
+    answer: 
+      A manufacturer warranty covers defects in the shingles and roofing products.
+      A workmanship warranty covers installation errors.
+      An optional extended manufacturers warranty bundles an enhanced material coverage warranty with a certified installer workmanship warranty.
+    topic: warranty
+  - question: Do you handle insurance claims?
+    answer: 
+      Yes. We inspect and document damage, you file a claim, and then we will coordinate with adjusters.
+      Working with the adjusters identify any hidden damage or code violations, prepare a quote, and perform work to spec.
+      You will pay your deductible and any elected upgrades.
+    topic: insurance claims
+  - question: How long does a typical roof replacement take?
+    answer: Most single-family roofs take one or two days once scheduled. Things take longer if the roof is complex, the weather is bad or we have to fix underlying damage.
+    topic: project length
+  - question: Do you do repairs?
+    answer: Yes. We repair leaks, flashing, pipe boots, skylights, and can provide emergency tarping.
+    topic: repairs
+  - question: Do you finance?
+    answer: Yes, subject to credit approval.
+    topic: financing
+
+components_of_asphalt_roof_system:
+  - Deck
+  - Underlayment
+  - Starter
+  - Shingles
+  - Flashings
+  - Penetrations
+  - Ventilation
+  - Ridge caps
+
+keys_to_successful_asphalt_roofing_job:
+  - Balanced ventilation
+  - Correct sequencing
+
+asphalt_shingle_types:
+  - name: 3-tab shingle
+    description: Budget-friendly, flat look, lower weight, lower wind rating.
+  - name: Architectural shingle
+    description: Thicker laminate, improved wind resistance, longer typical life, premium look.
+  - name: Luxury or Specialty shingle
+    description: Heavy profiles, slate/wood looks.
+
+roof_ventilation:
+  description: 
+    Balanced air intakes are called "soffits" and exhaust air ports are called "ridges." Both help control heat and moisture.
+    Poor ventilation shortens shingle life and promotes mold.
+
+roofing_underlayment:
+  description: Synthetic roofing underlayment resists tearing and UV radiation.
+
+ice_and_water_membrane:
+  description: Ice and water membranes placed in eaves, valleys and penetrations alleviate ice dams and wind-driven rain leakage.
+
+roof_flashing:
+  description: 
+    Roof flashing is a thin material, usually galvanized steel, that is used to direct water away wherever the roof plane meets a vertical surface like a wall.
+    The main purpose of flashing is to ensure water runs down the flashing onto roofing shingles instead of the water leaking thru the crevice.
+
+high_risk_zones_for_roof_leaks:
+  - Chimneys
+  - Sidewalls
+  - Skylights
+  - Valleys
+  - Boots
+
+roof_warranties:
+  - Material warranty: Covers manufacturer defects.
+  - Workmanship warranty: Covers contractor installation errors.
+  - Extended system warranty: Provides enhanced coverage when full roofing systems and certified installers are used.
+
+repair_vs_replace_roof:
+  repair_conditions:
+    - Damage is localized.
+  replace_conditions:
+    - Damage is widespread.
+    - Shingles are curling or cupping.
+    - Roof leaks repeatedly.
+    - Roof age dictates replacement.
+
+insurance_claim_workflow:
+  steps:
+    - Inspection
+    - Claim filed
+    - Adjuster meeting
+    - Work completed with any code upgrades
+    - Final invoice and depreciation release completed
+    - Homeowner pays deductible and for any upgrades
+
+financing_options:
+  - Same-as-cash promotions
+  - Reduced Annual Percentage Rate
+  - Long-term financing plans
+  - Financing options are quoted alongside cash price.
+
+project_day_logistics:
+  - Rain and heat contingency plans presented to homeowner.
+  - Landscaping protection.
+  - Dump trailer placed on property.
+  - Magnet sweep for metal debris.
+  - Final walk-through with photo documentation.
+
+post_install_care:
+  - Register warranties.
+  - Trim trees.
+  - Clean gutters.
+  - Check fasteners.
+  - Schedule maintenance.
+
+after_storm_roof_checklist:
+  - Check for signs of damage including missing shingles, bent metal, asphalt granules in gutters.
+
+seasonal_checklist:
+  Spring:
+    - Inspect shingles and flashings.
+    - Clean gutters.
+  Fall:
+    - Confirm ventilation.
+    - Check boots.
+    - Trim branches.
